@@ -36,4 +36,6 @@
      4. Новые сложности
      5. Новое усиление
 
-Эта игра создавалась одним разработчиком на языке JavaScript.
+**Ссылка на сайт: https://just0joon.github.io/The-chaos-of-equations/Equations%20Index.html**
+<br>
+*Эта игра создавалась одним разработчиком на языке JavaScript.*
